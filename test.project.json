@@ -1,0 +1,19 @@
+{
+    "name": "robert-module",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerStorage": {
+            "$className": "ServerStorage",
+
+            "Robert": {
+                "$path": "src"
+            }
+        },
+
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "$path": "test"
+        }
+    }
+  }
